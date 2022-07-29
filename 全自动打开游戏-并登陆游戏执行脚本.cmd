@@ -1,0 +1,1 @@
+safemon.exe -auto -backup
