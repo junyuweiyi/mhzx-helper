@@ -1,9 +1,9 @@
 [MHZXGem]
-ComboBox1=F:\รฮปรึ๏ฯษ\launcher\launcher.exe
+ComboBox1=E:\ำฮฯท\รฮปรึ๏ฯษฒโสิทþ\รฮปรึ๏ฯษ\launcher\launcher.exe
 cbEdit1=
 cbEdit2=
 cbEdit3=
-cbEdit4=
+cbEdit4=1
 cbCheckBox1=0
 cbCheckBox2=0
 
